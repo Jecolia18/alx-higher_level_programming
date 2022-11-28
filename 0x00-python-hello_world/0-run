@@ -1,3 +1,2 @@
-#!user/bin/python3
-PYFILE = 'this runs on python'
-print(PYFILE)
+#!bin/bash
+puthon3 $PYFILE
