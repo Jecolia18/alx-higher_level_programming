@@ -1,3 +1,4 @@
 #!user/bin/python3
 #!bin/bash
-print('this runs on python')
+PYFILE = 'this runs on python'
+print(PYFILE)
