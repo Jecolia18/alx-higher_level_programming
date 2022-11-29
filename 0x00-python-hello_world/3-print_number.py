@@ -1,5 +1,5 @@
 #!/usr/bin/python3
 number = 98
-print(f'''{number} \nBattery
-street\n
+print(f'''{number} Battery
+street
 ''')
