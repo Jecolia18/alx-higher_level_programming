@@ -5,4 +5,4 @@ def common_elements(set_1, set_2):
         for wrd_2 in set_2:
             if wrd_1 == wrd_2:
                 new_set.add(wrd_1)
-    return(new_set)
+    return (new_set)
