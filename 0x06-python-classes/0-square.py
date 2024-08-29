@@ -2,6 +2,7 @@
 
 """create a class"""
 
+
 class Square:
     """square class"""
     pass
